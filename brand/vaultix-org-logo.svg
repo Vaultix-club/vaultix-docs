@@ -1,0 +1,45 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="180" y1="132" x2="854" y2="892" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1628"/>
+      <stop offset="1" stop-color="#1E40AF"/>
+    </linearGradient>
+    <linearGradient id="split" x1="512" y1="254" x2="736" y2="770" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#BFDBFE"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(512 340) rotate(90) scale(420 420)">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="114" y="114" width="796" height="796" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="32" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" rx="224" fill="#F8FAFC"/>
+  <g filter="url(#shadow)">
+    <rect x="160" y="160" width="704" height="704" rx="176" fill="url(#bg)"/>
+    <circle cx="512" cy="512" r="268" fill="url(#glow)"/>
+
+    <path
+      d="M512 246C446.47 292.15 370.62 318.32 286 323.79V475.64C286 658.63 397.48 763.6 512 818C626.52 763.6 738 658.63 738 475.64V323.79C653.38 318.32 577.53 292.15 512 246Z"
+      fill="white"
+    />
+
+    <path
+      d="M512 246V818C626.52 763.6 738 658.63 738 475.64V323.79C653.38 318.32 577.53 292.15 512 246Z"
+      fill="url(#split)"
+    />
+
+    <path d="M512 278V782" stroke="#0A1628" stroke-opacity="0.18" stroke-width="20" stroke-linecap="round"/>
+    <path d="M512 278V782" stroke="white" stroke-opacity="0.18" stroke-width="8" stroke-linecap="round"/>
+
+    <path
+      d="M512 312C457.31 347.89 394.09 368.45 324 372.88V473.95C324 629.56 416.88 714.02 512 761.76C607.12 714.02 700 629.56 700 473.95V372.88C629.91 368.45 566.69 347.89 512 312Z"
+      stroke="white"
+      stroke-opacity="0.22"
+      stroke-width="10"
+    />
+  </g>
+</svg>
