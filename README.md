@@ -20,7 +20,7 @@ record without digging through the shipped site or the data sync code.
 
 ## Current Stage
 
-- `2025-10` - Concept framing
+- `2025-10` - Repository boundary draft
 
 ## What Lives Here
 
