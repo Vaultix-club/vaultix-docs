@@ -11,7 +11,7 @@ record without digging through the shipped site or the data sync code.
 ## Timeline Coverage
 
 - `2025-10` - Initial concept and architecture design
-- `2025-11` - reserved for future public release notes
+- `2025-11` - Core protocol development
 - `2025-12` - reserved for future public release notes
 - `2026-01` - reserved for future public release notes
 - `2026-02` - reserved for future public release notes
@@ -20,7 +20,7 @@ record without digging through the shipped site or the data sync code.
 
 ## Current Stage
 
-- `2025-10` - Repository boundary draft
+- `2025-11` - Core protocol narrative
 
 ## What Lives Here
 
