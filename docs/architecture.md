@@ -2,7 +2,7 @@
 
         Vaultix uses a three-repository public architecture.
 
-        Current staged focus: `2025-11` - Core protocol narrative.
+        Current staged focus: `2025-11` - Interaction and IA shell.
 
         - `vaultix-web` owns the public landing page and static app shell.
 - `vaultix-data` owns the reference Aave data snapshot pipeline.

@@ -20,7 +20,7 @@ record without digging through the shipped site or the data sync code.
 
 ## Current Stage
 
-- `2025-11` - Core protocol narrative
+- `2025-11` - Interaction and IA shell
 
 ## What Lives Here
 
