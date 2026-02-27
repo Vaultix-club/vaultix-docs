@@ -14,13 +14,13 @@ record without digging through the shipped site or the data sync code.
 - `2025-11` - Core protocol development
 - `2025-12` - Privacy layer integration
 - `2026-01` - Testing and optimization
-- `2026-02` - reserved for future public release notes
+- `2026-02` - Security review preparation
 - `2026-03` - reserved for future public release notes
 - `2026-04` - reserved for future public release notes
 
 ## Current Stage
 
-- `2026-01` - Testing surface and QA notes
+- `2026-02` - Security and disclaimer pass
 
 ## What Lives Here
 
