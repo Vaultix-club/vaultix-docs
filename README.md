@@ -20,7 +20,7 @@ record without digging through the shipped site or the data sync code.
 
 ## Current Stage
 
-- `2026-03` - Documentation packaging
+- `2026-03` - Launch copy and repository map
 
 ## What Lives Here
 
