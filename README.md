@@ -16,11 +16,11 @@ record without digging through the shipped site or the data sync code.
 - `2026-01` - Testing and optimization
 - `2026-02` - Security review preparation
 - `2026-03` - Documentation and marketing materials
-- `2026-04` - reserved for future public release notes
+- `2026-04` - GitHub public repository established
 
 ## Current Stage
 
-- `2026-03` - Launch copy and repository map
+- `2026-04` - Live data release
 
 ## What Lives Here
 
